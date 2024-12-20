@@ -1,2 +1,6 @@
 # Tyre-Life-Predictor
- A machine learning tool for predicting tyre lifespan based on driving conditions, lap data, and tyre characteristics.
+# Overview
+This script provides:
+- A model training pipeline for tyre life prediction.
+- Feature engineering to incorporate lap distance, tyre compound, and degradation rates.
+- Evaluation of model performance using mean squared error and R² score.

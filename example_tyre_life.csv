@@ -1,0 +1,9 @@
+Lap,TyreType,WearRate,TrackTemperature,TyreLife
+1,Soft,2.1,30,20
+2,Soft,2.2,31,19
+3,Soft,2.5,29,18
+4,Medium,1.8,28,25
+5,Medium,1.9,32,24
+6,Hard,1.5,27,30
+7,Hard,1.4,29,31
+8,Soft,2.6,33,17
